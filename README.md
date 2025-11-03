@@ -77,9 +77,8 @@
 ## 🏆 Achievements  
 
 - 🥇 **Microsoft Azure AI Fundamentals Challenge** – Trophy Winner  
-- ☁️ **Google Cloud Ready Facilitator Program** – 15 Skill Badges  
-- 🧩 **President of CSE Dept.**, organized state-level hackathons & quizzes  
-- 🏅 **National Hackathon Semi-Finalist** – TCE, Gadag  
+- ☁️ **Google Cloud Ready Facilitator Program** – 15 Skill Badges    
+- 🏅 **National Hackathon Semi-Finalist** – TCE  
 
 ---
 
