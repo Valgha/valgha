@@ -64,14 +64,7 @@
 | 🔹 [**Stock Market Prediction**](https://github.com/Valgha/Stock-market-prediction-) | Predicts stock trends using ML & time-series forecasting | Pandas, Scikit-learn |
 | 🔹 [**Farmer Assistant Management in Web**](https://github.com/Valgha/Farmer-Assistent-Management-in-Web) | Connects farmers & suppliers to improve transparency & profits | HTML, JS, SQL |
 
----
 
-## 🎓 Education  
-
-**Bachelor of Engineering (Computer Science)**  
-*Tontadarya College of Engineering, Gadag*  
-**CGPA:** 8.23 / 10  
-📚 Courses: Artificial Intelligence, Machine Learning, Unix Tools, Computer Networks  
 
 ---
 
