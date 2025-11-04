@@ -39,7 +39,7 @@
 ![LLMs](https://img.shields.io/badge/LLMs-FF4088?style=for-the-badge)
 ![GenAI](https://img.shields.io/badge/Generative%20AI-00C853?style=for-the-badge)
 
-### 🌐 Web & Database  
+### 🌐 Database  
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
