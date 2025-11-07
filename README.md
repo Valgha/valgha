@@ -85,14 +85,6 @@
 
 ---
 
-## 🧩 GitHub Streak  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valgha&theme=radical" alt="GitHub Streak" height="200em"/>
-</p>
-
----
-
 ## 💬 Let's Connect  
 
 <p align="center">
